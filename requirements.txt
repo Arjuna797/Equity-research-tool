@@ -1,0 +1,12 @@
+streamlit
+yfinance
+pandas
+plotly
+requests
+beautifulsoup4
+langchain
+langchain-huggingface
+langchain-core
+python-dotenv
+
+
